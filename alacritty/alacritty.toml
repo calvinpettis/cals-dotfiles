@@ -1,0 +1,9 @@
+[general]
+import = [
+  "~/.config/alacritty/gruvdark.toml"
+]
+
+[window]
+opacity = 0.95
+blur = false 
+
